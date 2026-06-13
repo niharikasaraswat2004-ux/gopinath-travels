@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gopinath-travels",
+  "compatibility_date": "2026-06-13",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "tour website"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
